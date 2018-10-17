@@ -1,0 +1,12 @@
+name: My-First-App
+title: My-First-App
+username:
+account: yash-lab
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 517282
+bundleId: 1646094
+url: https://yash-lab.shinyapps.io/My-First-App/
+when: 1539709507.23054
+asMultiple: FALSE
+asStatic: FALSE
